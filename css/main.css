@@ -14,6 +14,8 @@ a {
   background-color: #da823b;
   border-bottom: 3px solid #8e4a32;
   border-top: 3px solid #8e4a32;
+  background-image: url("..images/by.svg");
+  background-size: 18px auto;
 }
 
 .search-input {
@@ -25,7 +27,9 @@ a {
   padding-left: 1.5em;
 }
 
-.search-btn {
+.search-btn
+background-image: linear-gradient(to bottom, #794431, #8e4a32);
+border-color: #794431;
 
 }
 
